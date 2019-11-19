@@ -1,4 +1,4 @@
-exercice 7
+
 
 
 <script>
